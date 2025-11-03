@@ -1,4 +1,4 @@
-# ⚔️ RannDemo — 2D Action Prototype  
+# ⚔️ RannDemo - 2D Action Prototype  
 
 **RannDemo** is a small Unity project created as a prototype for a simple 2D action game.  
 It includes basic combat, enemies, traps, checkpoints, and a complete UI system.  
